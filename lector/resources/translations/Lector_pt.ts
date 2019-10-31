@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<!DOCTYPE TS><TS version="2.0" language="pt_BR" sourcelanguage="">
 <context>
     <name>AnnotationsUI</name>
     <message>
@@ -160,7 +159,7 @@
 <context>
     <name>DefinitionsUI</name>
     <message>
-        <location filename="../../definitionsdialog.py" line="143"/>
+        <location filename="../../definitionsdialog.py" line="144"/>
         <source>No definitions found in</source>
         <translation>Nenhuma definição achada em</translation>
     </message>
@@ -175,13 +174,11 @@
     <message>
         <location filename="../definitions.py" line="66"/>
         <source>WERDS</source>
-        <translatorcomment>???</translatorcomment>
         <translation>PALAVRAS</translation>
     </message>
     <message>
         <location filename="../definitions.py" line="67"/>
         <source>Play pronunciation of root word</source>
-        <translatorcomment>???</translatorcomment>
         <translation>Reproduzir pronúncia da palavra raiz</translation>
     </message>
     <message>
@@ -440,22 +437,22 @@ Reabrir livro para ver mudanças</translation>
 <context>
     <name>Library</name>
     <message>
-        <location filename="../../library.py" line="125"/>
+        <location filename="../../library.py" line="129"/>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
     <message>
-        <location filename="../../library.py" line="126"/>
+        <location filename="../../library.py" line="130"/>
         <source>Year</source>
         <translation>Ano</translation>
     </message>
     <message>
-        <location filename="../../library.py" line="285"/>
+        <location filename="../../library.py" line="289"/>
         <source>manually added</source>
         <translation>adicionado manualmente</translation>
     </message>
     <message>
-        <location filename="../../library.py" line="208"/>
+        <location filename="../../library.py" line="212"/>
         <source> books</source>
         <translation> livros</translation>
     </message>
@@ -647,9 +644,9 @@ Reabrir livro para ver mudanças</translation>
         <translation>Imagens</translation>
     </message>
     <message>
-        <location filename="../../__main__.py" line="546"/>
+        <location filename="." line="7602273"/>
         <source>Delete book(s)?</source>
-        <translation>Deletar livro(s)?</translation>
+        <translation type="obsolete">Deletar livro(s)?</translation>
     </message>
 </context>
 <context>
@@ -809,11 +806,6 @@ Reabrir livro para ver mudanças</translation>
         <translation>Visualização</translation>
     </message>
     <message>
-        <location filename="../../contentwidgets.py" line="768"/>
-        <source>Flow text</source>
-        <translation></translation>
-    </message>
-    <message>
         <location filename="../../contentwidgets.py" line="772"/>
         <source>Single page</source>
         <translation>Página simples</translation>
@@ -822,6 +814,11 @@ Reabrir livro para ver mudanças</translation>
         <location filename="../../contentwidgets.py" line="776"/>
         <source>Double page</source>
         <translation>Página dupla</translation>
+    </message>
+    <message>
+        <location filename="../../contentwidgets.py" line="768"/>
+        <source>Flow text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -887,9 +884,9 @@ Reabrir livro para ver mudanças</translation>
         <translation>Confirmar</translation>
     </message>
     <message>
-        <location filename="../../settingsdialog.py" line="550"/>
+        <location filename="." line="7602273"/>
         <source>Delete database and exit?</source>
-        <translation>Deletar banco de dados e sair?</translation>
+        <translation type="obsolete">Deletar banco de dados e sair?</translation>
     </message>
 </context>
 <context>
